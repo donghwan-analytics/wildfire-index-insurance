@@ -1,0 +1,10 @@
+tidyverse
+car
+pROC
+mgcv
+MASS
+quantreg
+splm
+spdep
+Matrix
+spatialreg

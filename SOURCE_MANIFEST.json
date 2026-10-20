@@ -1,0 +1,20 @@
+[
+  {
+    "file": "R/Wildfire_M0.R",
+    "original_sha256": "0b349be3708860fc6b60edec09fb8aa7a079a56b1ceb482bfb9a2fa3d842427a",
+    "prepared_sha256": "0b349be3708860fc6b60edec09fb8aa7a079a56b1ceb482bfb9a2fa3d842427a",
+    "change": "원본 바이트 유지"
+  },
+  {
+    "file": "R/Wildfire_M1_SAR.R",
+    "original_sha256": "4c31cebea5a1f4a5535a8afd42cc261ceca19cfc621083b923438313782509d5",
+    "prepared_sha256": "4c31cebea5a1f4a5535a8afd42cc261ceca19cfc621083b923438313782509d5",
+    "change": "원본 바이트 유지"
+  },
+  {
+    "file": "R/Wildfire_M2_STAR.R",
+    "original_sha256": "6de269f70b1377e524d4a9fe75492111a8e9d41bf6595cfa36920b07a57b5a99",
+    "prepared_sha256": "6de269f70b1377e524d4a9fe75492111a8e9d41bf6595cfa36920b07a57b5a99",
+    "change": "원본 바이트 유지"
+  }
+]
